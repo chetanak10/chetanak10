@@ -30,6 +30,35 @@
 - 🎯 **Kaggle Case Study Competition** – Developed risk models within a time-sensitive challenge.  
 
 ## 🛠️ Tech Stack 
+<p align="center">
+  <img src="https://img.shields.io/badge/-000?&logo=c" height="50"/>
+  <img src="https://img.shields.io/badge/-00599C?&logo=c%2B%2B" height="50"/>
+  <img src="https://img.shields.io/badge/-3776AB?&logo=python" height="50"/>
+  <img src="https://img.shields.io/badge/-F7DF1E?&logo=javascript" height="50"/>
+  <img src="https://img.shields.io/badge/-3178C6?&logo=typescript" height="50"/>
+  <img src="https://img.shields.io/badge/-00ADD8?&logo=go" height="50"/>
+  <img src="https://img.shields.io/badge/-61DAFB?&logo=react" height="50"/>
+  <img src="https://img.shields.io/badge/-43853D?&logo=node.js" height="50"/>
+  <img src="https://img.shields.io/badge/-2496ED?&logo=docker" height="50"/>
+  <img src="https://img.shields.io/badge/-FFCA28?&logo=firebase" height="50"/>
+  <img src="https://img.shields.io/badge/-232F3E?&logo=amazon-aws" height="50"/>
+  <img src="https://img.shields.io/badge/-47A248?&logo=mongodb" height="50"/>
+  <img src="https://img.shields.io/badge/-181717?&logo=github" height="50"/>
+  <img src="https://img.shields.io/badge/-F05032?&logo=git" height="50"/>
+  <img src="https://img.shields.io/badge/-FCC624?&logo=linux" height="50"/>
+  <img src="https://img.shields.io/badge/-007396?&logo=java" height="50"/>
+  <img src="https://img.shields.io/badge/-E34F26?&logo=html5" height="50"/>
+  <img src="https://img.shields.io/badge/-1572B6?&logo=css3" height="50"/>
+  <img src="https://img.shields.io/badge/-336791?&logo=postgresql" height="50"/>
+  <img src="https://img.shields.io/badge/-47A248?&logo=mongodb" height="50"/>
+  <img src="https://img.shields.io/badge/-777BB4?&logo=php" height="50"/>
+  <img src="https://img.shields.io/badge/-4479A1?&logo=mysql" height="50"/>
+  <img src="https://img.shields.io/badge/-E97627?&logo=tableau" height="50"/>
+  <img src="https://img.shields.io/badge/-F2C811?&logo=powerbi" height="50"/>
+  <img src="https://img.shields.io/badge/-217346?&logo=microsoft-excel" height="50"/>
+</p>
+
+
 
 ### **💻 Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
