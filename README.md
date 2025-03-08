@@ -67,4 +67,3 @@
 </p>
 ---
 
-🌟 *"Building impactful solutions one project at a time!"*
