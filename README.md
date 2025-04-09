@@ -6,7 +6,7 @@
 
 ---
 
-## 🌱 I’m currently  
+## 🌱 I’m currently 
 - Learning about Typescript, Bootstrap, Firebase and many more 
 - Enhancing frontend skills with React.js and Express.js  
 
