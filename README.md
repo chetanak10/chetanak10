@@ -1,5 +1,5 @@
 # Hi 👋, I'm Chetana Kulkarni
-💻 **B.Tech IT Undergraduate | Tech & Data Enthusiast | Aspiring Data Analyst, Web Developer**  
+💻 **B.Tech IT Undergraduate | Tech & Data Enthusiast | Aspiring Data Analyst, Web Developer** 
 
 🌟 Passionate about real-world, innovative projects and eager to explore emerging IT trends.  
 ![Profile Views](https://komarev.com/ghpvc/?username=chetanakulkarni&color=blue)
