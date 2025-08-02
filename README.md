@@ -8,8 +8,8 @@
 
 ## 🌱 I’m currently 
 - Learning about Typescript, Bootstrap, Firebase and many more 
-- Enhancing frontend skills with React.js and Express.js  
-
+- Enhancing frontend skills with React.js and Express.js
+  
 ## 🚀 Projects  
 - **[PlayVista](https://playvista7.netlify.app/)** – A sports networking platform with real-time scheduling.  
 - **[Elevate](https://ellevate.netlify.app/)** – A career guidance website for computer engineering students.  
