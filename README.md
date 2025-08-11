@@ -2,7 +2,7 @@
 💻 **B.Tech IT Undergraduate | Tech & Data Enthusiast | Aspiring Data Analyst, Web Developer, Software Engineer** 
 
 🌟 Passionate about real-world, innovative projects and eager to explore emerging IT trends.  
-![Profile Views](https://komarev.com/ghpvc/?username=chetanakulkarni&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=chetanakulkarni&color=blue) 
 
 ---
 
