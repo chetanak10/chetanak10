@@ -15,6 +15,8 @@
 - **[Elevate](https://ellevate.netlify.app/)** – A career guidance website for computer engineering students.  
 - **[Bank Loan Case Study](https://github.com/chetanak10/Netflix-Tableau-Dashboard)** – Risk analysis using advanced Excel.  
 - **[Netflix Tableau Dashboard](https://github.com/chetanak10/Netflix-Tableau-Dashboard)** – Visualizing content trends & distribution.
+- **[IMDB Movie Analysis]()** – Data-driven insights on ratings, genres, and profitability using Excel.
+- **[Essify]** – AI Essay Evaluation Tool with real-time grammar & structure analysis using NLP and ML.
 
 ## 💬 Ask me about  
 **Excel | Tableau | SQL | Python | Docker | HTML/CSS | Kubernetes**  
