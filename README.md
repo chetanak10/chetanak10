@@ -24,7 +24,7 @@
 ## 📫 How to reach me  
  [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetanak1005@gmail.com)  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chetana-kulkarni-23a2542b3/)  
- [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1RQ9fHJZRVykW70gUJ5OGyyH0jVaPU9Cr)  
+ [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-drive)](https://chetana-k-portfolio.netlify.app/)  
 
 
 ## 🏆 Certifications & Achievements  
